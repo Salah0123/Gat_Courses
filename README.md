@@ -1,2 +1,2 @@
-# Gat_Courses
+# Git_Courses
 For My GitHub
